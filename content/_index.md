@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Software
+        Reliability Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Software Reliability Lab** develops new methods and techniques for improving the **quality and dependability of software systems**, emphasising the construction of **practical tools** that can have societal impact. Our work spans from empirical software engineering methods that can inform practitioners and direct future research, to formal methods that can verify the absence of certain types of bugs.
   
   - block: collection
     content:
